@@ -1,3 +1,8 @@
+<img width="1875" height="1164" alt="Screenshot 2026-04-05 at 6 02 32 PM" src="https://github.com/user-attachments/assets/7bf0a5b4-4d42-46d3-899c-50f77b6b77c4" />
+
+
+
+
 # Nexus Support Assistant
 
 A RAG (Retrieval-Augmented Generation) support tool that answers questions by searching a knowledge base of PDF documents. Built with LangChain, Chroma, Voyage AI embeddings, and Claude.
